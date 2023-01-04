@@ -3,4 +3,4 @@ pandas
 sklearn
 tensorflow
 nltk
-re
+regex
